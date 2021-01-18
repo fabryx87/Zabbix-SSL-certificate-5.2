@@ -1,0 +1,1 @@
+# Zabbix-SSL-certificate-5.2
